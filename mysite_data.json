@@ -1,0 +1,1208 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-05-13T09:17:23.132Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "The first django blog post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-05-13T15:59:56.614Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "The first django blog post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-05-14T13:40:24.593Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "The first django blog post",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-05-14T13:41:07.423Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "The Future of Web Development",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-05-14T13:41:40.487Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Introduction to ReactJS",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-05-14T13:42:08.414Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Building RESTful APIs with Node.js",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-05-14T13:43:09.783Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "CSS Grid Layout: A Comprehensive Guide",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-05-14T13:43:39.105Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Understanding Asynchronous JavaScript",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-05-14T13:57:14.020Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "A Beginner's Guide to TypeScript",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-05-14T13:57:52.203Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Optimizing Web Performance",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-05-14T13:58:26.723Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Getting Started with Tailwind CSS",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-05-14T13:59:04.296Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Introduction to SQL and Databases",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-05-14T13:59:36.863Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Building Scalable Applications with Ruby on Rails",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-05-14T14:01:12.693Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Introduction to ReactJS",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-05-14T14:01:20.850Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Building RESTful APIs with Node.js",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-05-14T14:01:33.542Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": "Introduction to SQL and Databases",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-05-14T14:01:40.099Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "CSS Grid Layout: A Comprehensive Guide",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-05-14T14:01:47.777Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "A Beginner's Guide to TypeScript",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-05-14T14:01:57.260Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": "Building Scalable Applications with Ruby on Rails",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2024-05-14T14:02:06.969Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Understanding Asynchronous JavaScript",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2024-05-14T14:02:15.356Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": "Getting Started with Tailwind CSS",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2024-05-14T14:02:24.251Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Optimizing Web Performance",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2024-05-17T13:19:37.630Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comment by geoffrey kithuku on Understanding Asynchronous JavaScript",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2024-05-17T13:42:33.650Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Comment by geoffrey kithuku on Understanding Asynchronous JavaScript",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2024-05-21T11:01:55.073Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "rvm",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2024-07-08T11:34:46.458Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "The Future of Web Development",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2024-07-08T11:35:00.445Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Introduction to ReactJS",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2024-07-08T12:58:38.162Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "Markdown",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2024-07-08T12:59:58.269Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "Markdown",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2024-07-08T13:00:46.529Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "12",
+    "object_repr": "Markdown",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2024-07-08T14:07:04.207Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "myblog.com",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$8clLNqHYOR6Q4riKrdN5yh$8TXrj3Ff9+EkDiXYA1hOAplI73+f0gAa/bCCq6AwTkU=",
+    "last_login": "2024-07-08T13:45:17.191Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-05-13T09:12:34.323Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog_app",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog_app",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "39qt03fx8r7bcjcw51ase8rci34dd64c",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQAP-FsyHAVh4evfsNZGEXqRqalPZk_HdD0oNeZybzFhH3rca98xpnEhehxemXJcxPbkPQA9t9kXlp2zonORJ52C5vC_HrerR_g4q9jq3mgB7Qeqsw26IoqSmwdykbZ4iBimJnJoSiS4BimYE5gzpb8klp8fkC73g4XQ:1sQmdQ:UzUAnUEoUAS3_Iyb8MWHbXIiyC6vj6l4nkcHIbFOht8",
+    "expire_date": "2024-07-22T11:34:20.726Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "bdsrv04bkc2hickuajcd6rvmwye075sv",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQAP-FsyHAVh4evfsNZGEXqRqalPZk_HdD0oNeZybzFhH3rca98xpnEhehxemXJcxPbkPQA9t9kXlp2zonORJ52C5vC_HrerR_g4q9jq3mgB7Qeqsw26IoqSmwdykbZ4iBimJnJoSiS4BimYE5gzpb8klp8fkC73g4XQ:1s6Y5L:wkK3JrRjzgMVjnh7C0f5fOIBW5yN_3asTFCSl4OnhzM",
+    "expire_date": "2024-05-27T15:59:31.720Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "krwmfl1b6ve4ff9u9vd0dk0siplas6a4",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQAP-FsyHAVh4evfsNZGEXqRqalPZk_HdD0oNeZybzFhH3rca98xpnEhehxemXJcxPbkPQA9t9kXlp2zonORJ52C5vC_HrerR_g4q9jq3mgB7Qeqsw26IoqSmwdykbZ4iBimJnJoSiS4BimYE5gzpb8klp8fkC73g4XQ:1sQog9:xu9k5SQS10Me5q9ak6rW0VqGji718ez7aCTOJE9XCc4",
+    "expire_date": "2024-07-22T13:45:17.323Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "w12jog5hqfi42fkq0hmhd7xnip268a18",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQAP-FsyHAVh4evfsNZGEXqRqalPZk_HdD0oNeZybzFhH3rca98xpnEhehxemXJcxPbkPQA9t9kXlp2zonORJ52C5vC_HrerR_g4q9jq3mgB7Qeqsw26IoqSmwdykbZ4iBimJnJoSiS4BimYE5gzpb8klp8fkC73g4XQ:1s6RkD:ZOlNrVUNpoOLmZriaDAQ4583YKzyEGr58qPT-2MUE5M",
+    "expire_date": "2024-05-27T09:13:17.125Z"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "rails",
+    "slug": "rails"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "ruby",
+    "slug": "ruby"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "web",
+    "slug": "web"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "react",
+    "slug": "react"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 6,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 11
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 3,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 11
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 12
+  }
+},
+{
+  "model": "blog_app.post",
+  "pk": 2,
+  "fields": {
+    "title": "The Future of Web Development",
+    "slug": "the-future-of-web-development",
+    "body": "Web development is evolving rapidly with new frameworks and technologies. Explore what the future holds for web developers.",
+    "publish": "2024-05-14T13:40:28Z",
+    "created": "2024-05-14T13:41:07.420Z",
+    "updated": "2024-07-08T11:34:46.237Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog_app.post",
+  "pk": 3,
+  "fields": {
+    "title": "Introduction to ReactJS",
+    "slug": "introduction-to-reactjs",
+    "body": "ReactJS is a popular JavaScript library for building user interfaces. Learn the basics and get started with your first React project.",
+    "publish": "2024-05-14T13:41:07Z",
+    "created": "2024-05-14T13:41:40.486Z",
+    "updated": "2024-07-08T11:35:00.431Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog_app.post",
+  "pk": 4,
+  "fields": {
+    "title": "Building RESTful APIs with Node.js",
+    "slug": "building-restful-apis-with-nodejs",
+    "body": "Node.js provides a powerful platform for building scalable APIs. This article covers the steps to create RESTful APIs using Node.js and Express.",
+    "publish": "2024-05-14T13:41:40Z",
+    "created": "2024-05-14T13:42:08.412Z",
+    "updated": "2024-05-14T14:01:20.847Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog_app.post",
+  "pk": 5,
+  "fields": {
+    "title": "CSS Grid Layout: A Comprehensive Guide",
+    "slug": "css-grid-layout-a-comprehensive-guide",
+    "body": "CSS Grid Layout is a powerful layout system available in CSS. This guide covers everything you need to know to get started with CSS Grid.",
+    "publish": "2024-05-14T13:42:08Z",
+    "created": "2024-05-14T13:43:09.781Z",
+    "updated": "2024-05-14T14:01:40.097Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog_app.post",
+  "pk": 6,
+  "fields": {
+    "title": "Understanding Asynchronous JavaScript",
+    "slug": "understanding-asynchronous-javascript",
+    "body": "Asynchronous JavaScript can be challenging to understand. This article demystifies async concepts and explains how to use promises and async/await.",
+    "publish": "2024-05-14T13:43:10Z",
+    "created": "2024-05-14T13:43:39.103Z",
+    "updated": "2024-05-14T14:02:06.963Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog_app.post",
+  "pk": 7,
+  "fields": {
+    "title": "A Beginner's Guide to TypeScript",
+    "slug": "a-beginners-guide-to-typescript",
+    "body": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. Learn the basics of TypeScript and how it can improve your code.",
+    "publish": "2024-05-14T13:56:54Z",
+    "created": "2024-05-14T13:57:14.018Z",
+    "updated": "2024-05-14T14:01:47.774Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog_app.post",
+  "pk": 8,
+  "fields": {
+    "title": "Optimizing Web Performance",
+    "slug": "optimizing-web-performance",
+    "body": "Web performance is critical for user experience. Discover techniques and tools to optimize the performance of your web applications.",
+    "publish": "2024-05-14T13:57:14Z",
+    "created": "2024-05-14T13:57:52.201Z",
+    "updated": "2024-05-14T14:02:24.250Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog_app.post",
+  "pk": 9,
+  "fields": {
+    "title": "Getting Started with Tailwind CSS",
+    "slug": "getting-started-with-tailwind-css",
+    "body": "Tailwind CSS is a utility-first CSS framework. This article introduces Tailwind CSS and how to use it to quickly build modern web designs.",
+    "publish": "2024-05-14T13:57:52Z",
+    "created": "2024-05-14T13:58:26.721Z",
+    "updated": "2024-05-14T14:02:15.354Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog_app.post",
+  "pk": 10,
+  "fields": {
+    "title": "Introduction to SQL and Databases",
+    "slug": "introduction-to-sql-and-databases",
+    "body": "SQL is the standard language for interacting with databases. Learn the fundamentals of SQL and how to manage databases effectively.",
+    "publish": "2024-05-14T13:58:27Z",
+    "created": "2024-05-14T13:59:04.290Z",
+    "updated": "2024-05-14T14:01:33.540Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog_app.post",
+  "pk": 11,
+  "fields": {
+    "title": "Building Scalable Applications with Ruby on Rails",
+    "slug": "building-scalable-applications-with-ruby-on-rails",
+    "body": "Ruby on Rails is a popular web framework for building scalable applications. This article covers the basics of Rails and how to create a simple app",
+    "publish": "2024-05-14T13:59:04Z",
+    "created": "2024-05-14T13:59:36.862Z",
+    "updated": "2024-05-14T14:01:57.258Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog_app.post",
+  "pk": 12,
+  "fields": {
+    "title": "Markdown",
+    "slug": "markdown",
+    "body": "This is a post formatted with markdown\r\n--------------------------------------\r\n*This is emphasized* and **this is more emphasized**.\r\nHere is a list:\r\n\r\n* One\r\n* Two\r\n* Three\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+    "publish": "2024-07-08T12:58:13Z",
+    "created": "2024-07-08T12:58:38.104Z",
+    "updated": "2024-07-08T13:00:46.525Z",
+    "status": "PB",
+    "author": 1
+  }
+},
+{
+  "model": "blog_app.comment",
+  "pk": 1,
+  "fields": {
+    "post": 6,
+    "name": "geoffrey kithuku",
+    "email": "mutembeikithuku12@gmail.com",
+    "body": "This post was insightful.",
+    "created": "2024-05-17T13:19:37.629Z",
+    "updated": "2024-05-17T13:19:37.629Z",
+    "active": true
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "myblog.com",
+    "name": "myblog.com"
+  }
+}
+]
